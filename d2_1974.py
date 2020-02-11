@@ -1,21 +1,29 @@
-# num_of_test_case = int(input('number of test case?'))
-num_of_test_case = 1
+import sys
+sys.stdin = open('d2_1974_input.txt', 'r')
 
-for i in range(1, num_of_test_case+1):
-    case = [list(map(lambda x: int(x), input('case?').split(' '))) for j in range(9)]
-    for line in case:
-        if len(set(line)) != 9:
-            print('#{} 0'.format(i))
-            break
-    else:
-        ver_lines = {}
-        for ver_line in range(9):
-            ver_lines[ver_line] = []
-            for line in case:
-                ver_lines[ver_line].append(line[ver_line])
-        for k, v in ver_lines.items():
-            if len(set(v)) != 9:
-                print('#{} 0'.format(i))
-                break
-        else:
-            print('#{} 1'.format(i))
+T = int(input())
+
+for test_case in range(1, T+1):
+    N = 9
+    puzzle = [[i for i in input().split()] for _ in range(N)]
+    result = 1
+    # 가로
+    for row in puzzle:
+        if len(row) != len(set(row)):
+            result = 0
+    # 세로
+    for col_idx in range(N):
+        hor_line = [puzzle[row_idx][col_idx] for row_idx in range(N)]
+        if len(hor_line) != len(set(hor_line)):
+            result = 0
+
+    # 네모
+    for r_idx in range(0, N, 3):
+        for c_idx in range(0, N, 3):
+            square = [puzzle[r][c] for r in range(r_idx, r_idx+3) for c in range(c_idx, c_idx+3)]
+            if len(square) != len(set(square)):
+                result = 0
+
+    print('#{} {}'.format(test_case, result))
+
+
