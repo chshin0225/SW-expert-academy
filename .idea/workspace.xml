@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f7782317-825a-4d05-a946-290a73485e58" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d2_1974.py" beforeDir="false" afterPath="$PROJECT_DIR$/d2_1974.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d3_6057.py" beforeDir="false" afterPath="$PROJECT_DIR$/d3_6057.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/d4_6109.py" beforeDir="false" afterPath="$PROJECT_DIR$/d4_6109.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d3_5215.py" beforeDir="false" afterPath="$PROJECT_DIR$/d3_5215.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,36 +15,36 @@
     <session id="-112601393">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
-          <entry key="project.open.time.0" value="6" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="7" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="6" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="45" />
+          <entry key="py" value="47" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="45" />
+          <entry key="Python" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="7" />
-          <entry key="py" value="29005" />
+          <entry key="dummy" value="9" />
+          <entry key="py" value="29294" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="29005" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="29294" />
         </counts>
       </usages-collector>
     </session>
@@ -57,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/d3_6057.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -65,11 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/d3_2806.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="64" column="28" lean-forward="true" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
-              <folding>
-                <marker date="1581395868350" expanded="true" signature="1304:1378" ph="..." />
-              </folding>
+            <state relative-caret-position="1216">
+              <caret line="64" column="28" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -92,11 +87,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/d2_풍선팡.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="418">
+              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/d3_5215.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="50" column="46" lean-forward="true" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/d3_4371.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -149,7 +162,6 @@
         <option value="$PROJECT_DIR$/d3_1873.py" />
         <option value="$PROJECT_DIR$/d3_6190.py" />
         <option value="$PROJECT_DIR$/d2_2005.py" />
-        <option value="$PROJECT_DIR$/d3_5215.py" />
         <option value="$PROJECT_DIR$/d3_4615.py" />
         <option value="$PROJECT_DIR$/1211_ladder2.py" />
         <option value="$PROJECT_DIR$/d3_4698.py" />
@@ -166,12 +178,15 @@
         <option value="$PROJECT_DIR$/d2_1859.py" />
         <option value="$PROJECT_DIR$/d2_1954.py" />
         <option value="$PROJECT_DIR$/d2_풍선팡.py" />
+        <option value="$PROJECT_DIR$/d3_5215.py" />
+        <option value="$PROJECT_DIR$/d3_4317.py" />
+        <option value="$PROJECT_DIR$/d3_4371.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="779" />
-    <option name="y" value="1" />
+    <option name="x" value="677" />
+    <option name="y" value="9" />
     <option name="width" value="1113" />
     <option name="height" value="1047" />
   </component>
@@ -216,7 +231,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="bookmark&#9;ACTION&#9;Bookmarks" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baekjoon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algorithm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -236,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.d2_풍선팡">
+  <component name="RunManager" selected="Python.d3_4371">
     <configuration name="d2_풍선팡" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SW expert academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -300,7 +315,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="d3_6057" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="d3_4371" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SW expert academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -312,7 +327,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d3_6057.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d3_4371.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,7 +336,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="d4_6109" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="d3_5215" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SW expert academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -333,7 +348,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d4_6109.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d3_5215.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,19 +358,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.d4_6109" />
-      <item itemvalue="Python.d3_6057" />
       <item itemvalue="Python.d3_2806" />
       <item itemvalue="Python.d2_1974" />
       <item itemvalue="Python.d2_풍선팡" />
+      <item itemvalue="Python.d3_5215" />
+      <item itemvalue="Python.d3_4371" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.d3_4371" />
+        <item itemvalue="Python.d3_5215" />
         <item itemvalue="Python.d2_풍선팡" />
         <item itemvalue="Python.d2_1974" />
         <item itemvalue="Python.d3_2806" />
-        <item itemvalue="Python.d3_6057" />
-        <item itemvalue="Python.d4_6109" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +388,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="779" y="1" width="1113" height="1047" extended-state="0" />
+    <frame x="677" y="9" width="1113" height="1047" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11162791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -493,13 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d3_5215.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d3_4615.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -577,23 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d3_6057.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_2806.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="64" column="28" lean-forward="true" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
-          <folding>
-            <marker date="1581395868350" expanded="true" signature="1304:1378" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d2_1974.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -605,6 +596,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3_6057.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3_2806.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="28" selection-start-line="64" selection-start-column="28" selection-end-line="64" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -624,8 +629,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/d2_풍선팡.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="418">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3_5215.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="50" column="46" lean-forward="true" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3_4371.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
         </state>
       </provider>
     </entry>
