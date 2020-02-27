@@ -1,6 +1,7 @@
 import sys
 sys.stdin = open('d4_1258_input.txt', 'r')
 
+
 T = int(input())
 
 for test_case in range(1, T+1):
@@ -25,7 +26,7 @@ for test_case in range(1, T+1):
         if matrix_count == max_matrix_count:
             break
         for col in range(N):
-            # 부분행렬의 왼쪽 위 시작점 찾
+            # 부분행렬의 왼쪽 위 시작점 찾기
             if layout[row][col] != 0 and visited[row][col] == 0:
                 row_len = 0
                 col_len = 0
@@ -42,7 +43,7 @@ for test_case in range(1, T+1):
                     row_len += 1
                 # 행과 열의 길이를 result에 넣기
                 result.append([col_len, row_len])
-                # 앞으로 탐색할때 이 부분행렬을 다시는 안 찾게 visited에 이 부분행렬의 좌표들을 다 append
+                # 앞으로 탐색할때 이 부분행렬을 다시는 안 찾게 visited에 이 부분행렬의 좌표들을 다 1로 표시
                 for r in range(row, row+col_len):
                     for c in range(col, col+row_len):
                         visited[r][c] = 1
@@ -52,3 +53,12 @@ for test_case in range(1, T+1):
     for x, y in result:
         print(x, y, end=' ')
     print()
+
+
+
+
+
+
+
+
+
