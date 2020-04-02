@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7782317-825a-4d05-a946-290a73485e58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/SW expert academy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SW expert academy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
     </list>
@@ -15,27 +13,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/d4_1486.py">
+        <entry file="file://$PROJECT_DIR$/d3_1225.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d4_1486_input.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -111,17 +95,21 @@
         <option value="$PROJECT_DIR$/d4_계산기3.py" />
         <option value="$PROJECT_DIR$/d3_2806.py" />
         <option value="$PROJECT_DIR$/1258.py" />
-        <option value="$PROJECT_DIR$/practice.py" />
         <option value="$PROJECT_DIR$/1258_2.py" />
         <option value="$PROJECT_DIR$/1486.py" />
         <option value="$PROJECT_DIR$/d4_1486.py" />
+        <option value="$PROJECT_DIR$/practice.py" />
+        <option value="$PROJECT_DIR$/모의_1952.py" />
+        <option value="$PROJECT_DIR$/모의_4008.py" />
+        <option value="$PROJECT_DIR$/d3_1225.py" />
+        <option value="$PROJECT_DIR$/신채원_암호생성기.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="470" />
+    <option name="x" value="233" />
     <option name="y" value="23" />
-    <option name="width" value="970" />
+    <option name="width" value="722" />
     <option name="height" value="825" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -149,6 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -160,7 +149,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,8 +175,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.d4_1486">
-    <configuration name="1258" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.d3_1225">
+    <configuration name="모의_1952" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SW expert academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +188,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d4_1258.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의_1952.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1258_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="모의_4008" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SW expert academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,7 +209,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d4_1258_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/모의_4008.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="d3_2806" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="d3_1225" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SW expert academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,7 +230,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d3_2806.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d3_1225.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,19 +282,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.d3_2806" />
       <item itemvalue="Python.practice" />
-      <item itemvalue="Python.1258" />
-      <item itemvalue="Python.1258_2" />
       <item itemvalue="Python.d4_1486" />
+      <item itemvalue="Python.모의_4008" />
+      <item itemvalue="Python.모의_1952" />
+      <item itemvalue="Python.d3_1225" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.d4_1486" />
+        <item itemvalue="Python.d3_1225" />
+        <item itemvalue="Python.모의_4008" />
+        <item itemvalue="Python.모의_1952" />
         <item itemvalue="Python.practice" />
-        <item itemvalue="Python.1258_2" />
-        <item itemvalue="Python.1258" />
-        <item itemvalue="Python.d3_2806" />
+        <item itemvalue="Python.d4_1486" />
       </list>
     </recent_temporary>
   </component>
@@ -324,10 +312,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="470" y="23" width="970" height="825" extended-state="0" />
+    <frame x="233" y="23" width="722" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.1645857" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3651926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -347,23 +335,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/d1_2072.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d2_1979.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d2_1983.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d32.py" />
     <entry file="file://$PROJECT_DIR$/d2_1204.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -634,20 +605,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d4_1486_input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/d4_1486.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Algorithm/source/online_course/모의_4008.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Algorithm/source/online_course/모의_1952.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3_1225_input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d3_1225.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
