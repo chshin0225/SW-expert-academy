@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="f7782317-825a-4d05-a946-290a73485e58" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1211_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D4/d4_1211_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1211_ladder2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1211_ladder2.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/d4_1211_ladder2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1226_미로1.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/d4_1226_미로1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1226_미로1_input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/D4/d4_1226_미로1_input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/d3_5215.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3/d3_5215.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/d3_1225.py">
+        <entry file="file://$PROJECT_DIR$/D3/d3_5215.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="285">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -52,10 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/d2_1979.py" />
-        <option value="$PROJECT_DIR$/d32.py" />
-        <option value="$PROJECT_DIR$/d3.py" />
-        <option value="$PROJECT_DIR$/d2_1983.py" />
         <option value="$PROJECT_DIR$/d2_1204.py" />
         <option value="$PROJECT_DIR$/d3_1206.py" />
         <option value="$PROJECT_DIR$/d3_1206_해설.py" />
@@ -103,14 +105,18 @@
         <option value="$PROJECT_DIR$/모의_4008.py" />
         <option value="$PROJECT_DIR$/d3_1225.py" />
         <option value="$PROJECT_DIR$/신채원_암호생성기.py" />
+        <option value="$PROJECT_DIR$/d4_1211_ladder2.py" />
+        <option value="$PROJECT_DIR$/d4_1226_미로1.py" />
+        <option value="$PROJECT_DIR$/D6/d6_1267.py" />
+        <option value="$PROJECT_DIR$/D3/d3_5215.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="233" />
+    <option name="x" value="5" />
     <option name="y" value="23" />
-    <option name="width" value="722" />
-    <option name="height" value="825" />
+    <option name="width" value="781" />
+    <option name="height" value="826" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -145,6 +151,16 @@
               <item name="SW-expert-academy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="~/Desktop/SSAFY/SW-expert-academy" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
+            <path>
+              <item name="SW-expert-academy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/SSAFY/SW-expert-academy" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="D3" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SW-expert-academy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/SSAFY/SW-expert-academy" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="D6" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -159,6 +175,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/D3" />
+      <recent name="$PROJECT_DIR$/D6" />
+      <recent name="$PROJECT_DIR$/D4" />
       <recent name="$PROJECT_DIR$" />
       <recent name="C:\Users\multicampus\Desktop\chaewon\SW expert academy" />
     </key>
@@ -175,7 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.d3_1225">
+  <component name="RunManager" selected="Python.d3_5215">
     <configuration name="모의_1952" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SW expert academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="d4_1486" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="d3_5215" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SW expert academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,11 +266,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d4_1486.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D3/d3_5215.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="d6_1267" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SW expert academy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,11 +287,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/D6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/D6/d6_1267.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,19 +301,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.practice" />
-      <item itemvalue="Python.d4_1486" />
       <item itemvalue="Python.모의_4008" />
       <item itemvalue="Python.모의_1952" />
       <item itemvalue="Python.d3_1225" />
+      <item itemvalue="Python.d6_1267" />
+      <item itemvalue="Python.d3_5215" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.d3_5215" />
+        <item itemvalue="Python.d6_1267" />
         <item itemvalue="Python.d3_1225" />
         <item itemvalue="Python.모의_4008" />
         <item itemvalue="Python.모의_1952" />
-        <item itemvalue="Python.practice" />
-        <item itemvalue="Python.d4_1486" />
       </list>
     </recent_temporary>
   </component>
@@ -312,10 +331,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="233" y="23" width="722" height="825" extended-state="0" />
+    <frame x="5" y="23" width="781" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3651926" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3631579" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -328,304 +347,57 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.30695772" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.3065395" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/d32.py" />
-    <entry file="file://$PROJECT_DIR$/d2_1204.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_1206.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_1206_해설.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d2_2001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d2_1946.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_6019.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_5948.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_5789.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_6190.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="61" column="39" selection-start-line="61" selection-start-column="39" selection-end-line="61" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d2_2005.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_4615.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_1873.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="80" column="68" selection-start-line="80" selection-start-column="68" selection-end-line="80" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_5162.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1211_ladder2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_7675_input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_1493.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_1234.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_7675.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_4698.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_5356.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/d2_2001.py" />
+    <entry file="file://$PROJECT_DIR$/d2_1946.py" />
+    <entry file="file://$PROJECT_DIR$/d3_6019.py" />
+    <entry file="file://$PROJECT_DIR$/d3_5948.py" />
+    <entry file="file://$PROJECT_DIR$/d3_5789.py" />
+    <entry file="file://$PROJECT_DIR$/d3_6190.py" />
+    <entry file="file://$PROJECT_DIR$/d2_2005.py" />
+    <entry file="file://$PROJECT_DIR$/d3_4615.py" />
+    <entry file="file://$PROJECT_DIR$/d3_1873.py" />
+    <entry file="file://$PROJECT_DIR$/d3_5162.py" />
+    <entry file="file://$PROJECT_DIR$/d3_7675_input.txt" />
+    <entry file="file://$PROJECT_DIR$/d3_1493.py" />
+    <entry file="file://$PROJECT_DIR$/d3_1234.py" />
+    <entry file="file://$PROJECT_DIR$/d3_7675.py" />
+    <entry file="file://$PROJECT_DIR$/d3_4698.py" />
+    <entry file="file://$PROJECT_DIR$/d3_5356.py" />
     <entry file="file://$PROJECT_DIR$/서울_5반_조준희_문제1.py" />
     <entry file="file://$PROJECT_DIR$/../../서울_5반_조준희_문제1.py" />
     <entry file="file://$PROJECT_DIR$/서울_5반_조준희_문제2.py" />
     <entry file="file://$PROJECT_DIR$/서울_5반_조준희_문제3.py" />
-    <entry file="file://$PROJECT_DIR$/d4_6109.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d2_1974.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d2_1926.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_4371.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_5215.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="824">
-          <caret line="50" column="46" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d2_풍선팡.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d2_1954.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d2_1859.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1226_미로1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_6057.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d4_계산기3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_1220.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_2806.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_6485.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_2814.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d4_1210_ladder1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d4_1258_input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d4_1258_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d4_1258.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="30" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d4_1486_input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d4_1486.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/d4_6109.py" />
+    <entry file="file://$PROJECT_DIR$/d2_1974.py" />
+    <entry file="file://$PROJECT_DIR$/d2_1926.py" />
+    <entry file="file://$PROJECT_DIR$/d3_4371.py" />
+    <entry file="file://$PROJECT_DIR$/d3_5215.py" />
+    <entry file="file://$PROJECT_DIR$/d2_풍선팡.py" />
+    <entry file="file://$PROJECT_DIR$/d2_1954.py" />
+    <entry file="file://$PROJECT_DIR$/d2_1859.py" />
+    <entry file="file://$PROJECT_DIR$/d3_6057.py" />
+    <entry file="file://$PROJECT_DIR$/d4_계산기3.py" />
+    <entry file="file://$PROJECT_DIR$/d3_1220.py" />
+    <entry file="file://$PROJECT_DIR$/d3_2806.py" />
+    <entry file="file://$PROJECT_DIR$/d3_6485.py" />
+    <entry file="file://$PROJECT_DIR$/d3_2814.py" />
+    <entry file="file://$PROJECT_DIR$/d4_1210_ladder1.py" />
+    <entry file="file://$PROJECT_DIR$/d4_1258_input.txt" />
+    <entry file="file://$PROJECT_DIR$/d4_1258_2.py" />
+    <entry file="file://$PROJECT_DIR$/d4_1258.py" />
+    <entry file="file://$PROJECT_DIR$/d4_1486_input.txt" />
+    <entry file="file://$PROJECT_DIR$/d4_1486.py" />
     <entry file="file://$PROJECT_DIR$/../Algorithm/source/online_course/모의_4008.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -636,13 +408,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/d3_1225_input.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d3_1225.py">
+    <entry file="file://$PROJECT_DIR$/d3_1225_input.txt" />
+    <entry file="file://$PROJECT_DIR$/d3_1225.py" />
+    <entry file="file://$PROJECT_DIR$/1211_ladder2" />
+    <entry file="file://$PROJECT_DIR$/D4/d4_1226_미로1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="15">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D4/d4_1211_ladder2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice.py" />
+    <entry file="file://$PROJECT_DIR$/D6/d6_1267.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D6/d6_1267_input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/D3/d3_5215.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>

@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open('1211_input.txt', 'r')
+sys.stdin = open('d4_1211_input.txt', 'r')
 
 for test_case in range(10):
     test_case_no = int(input())
